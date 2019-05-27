@@ -1,1 +1,47 @@
 /* All styles for your header Components live here */
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    border: 2px solid red;
+   display: flex;
+   height: 400px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 20px;
+}
+
+p {
+    margin: 5px 0;
+}
+
+.headerTitle{
+    display: flex;
+    align-content: center;
+    padding: 10px 0 0 10px;
+    
+}
+
+.data-title{
+    padding: 2px 0 2px 5px;
+    color: lightgray;
+}
+
+
+.image {
+    width: 100px;
+    height: 100px;
+}
+
+.img-container{
+    width: 100px;
+    height: 100%;
+}
+
+.content {
+   float: right;
+   padding: 0 0 0 10px;
+}
