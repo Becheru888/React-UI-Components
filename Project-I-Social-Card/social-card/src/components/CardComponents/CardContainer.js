@@ -6,7 +6,7 @@ import './CardBanner';
 function CardContainer(){
     return (
         <div>
-           
+           <CardContainer/>
         </div>
     )
 }
