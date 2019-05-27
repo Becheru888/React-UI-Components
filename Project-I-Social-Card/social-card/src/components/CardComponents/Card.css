@@ -20,8 +20,10 @@ h1, p {
     color: black;
 }
 
-
 a {
     text-decoration: none;
+}
+
+.site {     
     color: gray;
 }

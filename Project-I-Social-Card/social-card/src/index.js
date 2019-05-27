@@ -15,7 +15,7 @@ function CardContainer() {
             <h1>Get started with React</h1>
             <p>React makes it painless to create interactive UIs.
              Design simple view for each state in your aplication</p>
-             <a href='#'>Reactjs.org</a>
+             <p className='site'>Reactjs.org</p>
              </a>
         </div>
     )
