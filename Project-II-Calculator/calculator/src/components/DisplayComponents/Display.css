@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+.calculator-display{
+  width: 400px;
+  height: 100px;
+  background-color: black;
+  
+}
+
+p{  
+    position: relative;
+    top: 20px;
+    right: 20px;
+    margin: 0;
+    float: right;
+    font-size: 40px;
+    color: white;
+}

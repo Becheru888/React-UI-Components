@@ -1,1 +1,29 @@
 /* All styles for your Card Components live here */
+
+.react-pic {
+    float: right;
+    width: 577px;
+    height: 300px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.card-content{
+    border: 1px solid gray;
+    width: 577px;
+    height: 420px;
+    float: right;
+    border-radius: 5px;
+}
+
+h1, p {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+.site {     
+    color: gray;
+}
